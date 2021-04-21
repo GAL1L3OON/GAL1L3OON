@@ -8,6 +8,7 @@ programming and I really need help
 - 📫 How to reach me ...by my email
 
 gerson.h.c.pereira@gmail.com.
+or gersonhcp2@gmail.com
 
 <!---
 GAL1L3OON/GAL1L3OON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
